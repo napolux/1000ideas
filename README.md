@@ -1,5 +1,7 @@
 # 1000 ideas, free for everyone
 
+[![Build Status](https://travis-ci.org/napolux/1000ideas.svg?branch=master)](https://travis-ci.org/napolux/1000ideas)
+
 I was always thrilled by "idea generation mechanism" and how a business like Facebook or Uber or Apple can born from "the brain" of someone... A while ago [I've read about the Idea machine from James Altucher](http://www.jamesaltucher.com/2014/05/the-ultimate-guide-for-becoming-an-idea-machine/)
 and as a programmer I've decided to give to my idea machine a little structure and a way to ensure some sort of quality to my ideas.
 
