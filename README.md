@@ -32,6 +32,12 @@ Ideas will be rendered as a `.json` and a `.md` file. The markdown file will be 
 
 (structure may change at my will, it's not set in stone)
 
+To run tests you need:
+
+* PHP 5.5.x
+* [Composer](https://getcomposer.org/download/) & [PHPUnit](http://phpunit.de)
+* [Install PHPUnit](http://phpunit.de/manual/current/en/installation.html) if you didn't before.
+
 ### Are your ideas 100% originals?
 
 **I can't guarantee they are 100% originals**, the world is full of ideas machines. I can only guarantee that the idea comes from my mind. :)
