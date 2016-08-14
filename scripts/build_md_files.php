@@ -24,7 +24,7 @@ foreach($ideas as $idea) {
     $data = file_get_contents($idea . "/idea.json");
     $ideaJSON = json_decode($data, true);
 
-    $fp = fopen($idea . "/idea.md", "w+");
+    $fp = fopen($idea . "/README.md", "w+");
 
     // Title
     fwrite($fp, "# " . $ideaJSON["title"] . "\n\n");

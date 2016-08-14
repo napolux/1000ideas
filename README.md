@@ -27,7 +27,7 @@ If I stick to James' idea machine article I should end my journey in 100 days. I
 
 ### Tell me more about the "little structure" and the "quality" of your ideas
 
-Ideas will be rendered as a `.json` and a `.md` file. The markdown file will be the "human readable" version of the idea, while the json file will be validated using some PHPUnit tests and a CI system in order to:
+Ideas will be rendered as a `.json` and a `README.md` file. The markdown file will be the "human readable" version of the idea, while the json file will be validated using some PHPUnit tests and a CI system in order to:
 
 * Have a "title" of less than 15 words
 * Have a "description" of at least than 30 words
