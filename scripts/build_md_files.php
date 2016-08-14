@@ -2,21 +2,7 @@
 
 // This is a batch jobs for markdown files generation
 
-$folder = __DIR__ . "/../ideas/";
-
-$iter = new RecursiveIteratorIterator(
-    new RecursiveDirectoryIterator($folder, RecursiveDirectoryIterator::SKIP_DOTS),
-    RecursiveIteratorIterator::SELF_FIRST,
-    RecursiveIteratorIterator::CATCH_GET_CHILD
-);
-
-$ideas = [];
-
-foreach ($iter as $path => $dir) {
-    if ($dir->isDir()) {
-        $ideas[] = $path;
-    }
-}
+$ideas = getIdeas();
 
 foreach($ideas as $idea) {
 
@@ -49,26 +35,22 @@ foreach($ideas as $idea) {
     fclose($fp);
 }
 
-/*
-Elit Elit Ipsum Dolor Inceptos Parturient Elit Ipsum Dolor Inceptos Parturient Elit Ipsum Dolor Inceptos Parturient Elit Ipsum Dolor Inceptos Parturient Elit Ipsum Dolor Inceptos Parturient Elit Ipsum Dolor Inceptos Parturient
+function getIdeas() {
+    $folder = __DIR__ . "/../ideas/";
 
-### PROs
+    $iter = new RecursiveIteratorIterator(
+        new RecursiveDirectoryIterator($folder, RecursiveDirectoryIterator::SKIP_DOTS),
+        RecursiveIteratorIterator::SELF_FIRST,
+        RecursiveIteratorIterator::CATCH_GET_CHILD
+    );
 
-* Elit Ipsum Dolor Inceptos Parturient
-* Elit Ipsum Dolor Inceptos Parturient
-* Elit Ipsum Dolor Inceptos Parturient
-* Elit Ipsum Dolor Inceptos Parturient
-* Elit Ipsum Dolor Inceptos Parturient
+    $ideas = [];
 
-### CONs
+    foreach ($iter as $path => $dir) {
+        if ($dir->isDir()) {
+            $ideas[] = $path;
+        }
+    }
 
-* Elit Ipsum Dolor Inceptos Parturient
-* Elit Ipsum Dolor Inceptos Parturient
-* Elit Ipsum Dolor Inceptos Parturient
-* Elit Ipsum Dolor Inceptos Parturient
-* Elit Ipsum Dolor Inceptos Parturient
-
-### Notice
-
-Check https://github.com/napolux/1000ideas for license and FAQ
- */
+    return $ideas;
+}
