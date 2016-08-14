@@ -14,7 +14,7 @@ For a monthly subscription (i.e. 19$ for 1 bed, 29$ for two beds, etc...) we mak
 
 * Hard to scale (sheets, fleet, workers, etc...)
 * How can we access multiple houses?
-* How to manage
+* How to manage workers and schedule?
 * Works only in rich neighborhood
 * Needs insurance to cover damages, scams, etc...
 
