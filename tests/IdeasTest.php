@@ -21,15 +21,13 @@ class Ideas extends \PHPUnit_Framework_TestCase
             RecursiveIteratorIterator::CATCH_GET_CHILD
         );
 
-        $this->ideas = [$folder];
+        $this->ideas = [];
 
         foreach ($iter as $path => $dir) {
             if ($dir->isDir()) {
                 $this->ideas[] = $path;
             }
         }
-        // Removing root ideas folder from the structure...
-        array_shift($this->ideas);
     }
 
     public function testIdeas() {
