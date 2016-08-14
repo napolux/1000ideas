@@ -45,6 +45,7 @@ class Ideas extends \PHPUnit_Framework_TestCase
 
             // Check word counts for title & description
             $this->assertTrue(str_word_count($ideaJSON["title"]) <= 15, "Title should be at not more than 15 words long");
+            $this->assertNotEmpty(str_word_count($ideaJSON["title"]), "Title should not be empty");
             $this->assertTrue(str_word_count($ideaJSON["description"]) >= 30, "Title should be at least 30 words long");
 
             // Check PROs and CONs
