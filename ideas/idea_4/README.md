@@ -1,0 +1,23 @@
+# Your vegetables garden app
+
+Gardening is an hobby for many people. Sharing your veggies, asking for support, giving advice to other gardeners or looking for info about tomatoes... An app for this hobby could create a nice community around it. Plus, it can be integrated with IoT devices
+
+### PROs
+
+* Could be a catalogue of vegetables/flowers and/or a community, easy to start as MVP
+* People are usually eager to show their success
+* Easy to be monetized (Ads? Subscription?)
+* Pretty niche with not so many alternatives
+* IoT integration could be a plus
+
+### CONs
+
+* Is the niche big enough?
+* Needs to be a gardener to understand and interact with the community
+* Can't be completely passive... Needs staff to mantain/add content
+* How to engage people at the beginning?
+* Can be affected by seasonality
+
+### Notice
+
+Check https://github.com/napolux/1000ideas for license and FAQ
