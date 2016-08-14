@@ -5,6 +5,8 @@
 I was always thrilled by "idea generation mechanism" and how a business like Facebook or Uber or Apple can born from "the brain" of someone... A while ago [I've read about the Idea machine from James Altucher](http://www.jamesaltucher.com/2014/05/the-ultimate-guide-for-becoming-an-idea-machine/)
 and as a programmer I've decided to give to my idea machine a little structure and a way to ensure some sort of quality to my ideas.
 
+This repo serves as container for my ideas.
+
 My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**. 
 
 ## FAQ
