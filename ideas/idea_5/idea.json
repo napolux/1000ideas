@@ -1,0 +1,19 @@
+{
+  "title": "Vegan food/restaurants/lifestyle review",
+  "description": "There is a lot of vegan friendly food, clothes, restaurants, etc... out there, but not so many websites/youtube channels about food review. What's the best tofu? Are the veggies from X better than the veggies from Y? Reviews can be submitted by users or created by the staff.",
+  "pros": [
+    "Youtube channels for reviews are trendy nowadays",
+    "Not so many alternatives in European market",
+    "Easy to be monetized (paid reviews? ads?)",
+    "Pretty and trendy niche",
+    "Easy MVP. A WordPress is enough to start"
+  ],
+  "cons": [
+    "I'm not vegan, I don't know any vegan. Staff should know what is ok or not for the vegan community",
+    "Can be easy target for Internet trolls",
+    "Easy to copy",
+    "Needs a constant flow of new content everyday",
+    "Hard to scale."
+  ],
+  "notice": "Check https://github.com/napolux/1000ideas for license and FAQ"
+}
