@@ -13,6 +13,19 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 
 <!--- IDEALIST_START -->
 
+* [The idea number 0, the prototype for all other ideas](ideas/idea_0/README.md)
+* [We make your bed service](ideas/idea_1/README.md)
+* [Use a color to make phishing hard](ideas/idea_10/README.md)
+* [The barber review](ideas/idea_11/README.md)
+* [Tourist guide on demand for travel tips](ideas/idea_2/README.md)
+* [A Wikipedia for WW2 testimonials](ideas/idea_3/README.md)
+* [Your vegetables garden app](ideas/idea_4/README.md)
+* [Vegan food/restaurants/lifestyle review](ideas/idea_5/README.md)
+* [Follow me luggage](ideas/idea_6/README.md)
+* [CV Bot](ideas/idea_7/README.md)
+* [IKEA personal shopper](ideas/idea_8/README.md)
+* [Play videogames meetup platform](ideas/idea_9/README.md)
+
 <!--- IDEALIST_END -->
 
 ## FAQ
@@ -38,7 +51,7 @@ Ideas will be rendered as a `.json` and a `README.md` file. The markdown file wi
 * Have a "title" of less than 15 words
 * Have a "description" of at least than 30 words
 * Have a list of five (5) pros and (5) cons
-* A notice about this project 
+* A notice about this project
 
 (structure may change at my will, it's not set in stone)
 
@@ -54,7 +67,7 @@ To run tests you need:
 
 ### Can you elaborate on this?
 
-**Let's make an example**: let's say I'm thinking about **a dating site for fat people like me**. There are already many websites out there offering this kind of services, but probably I'm thinking about it for a while and **I've figure out a way for a viral marketing initiative like printing coupons for the service on pizza boxes**... 
+**Let's make an example**: let's say I'm thinking about **a dating site for fat people like me**. There are already many websites out there offering this kind of services, but probably I'm thinking about it for a while and **I've figure out a way for a viral marketing initiative like printing coupons for the service on pizza boxes**...
 
 Then I'll write it down as an idea.
 
@@ -66,7 +79,7 @@ Nope, sorry. But you can fork my repo and do whatever you want with it. If you h
 
 ### What is `idea_0`?
 
-It's a prototype for all the other ideas. I'm using it to validate my build and test scripts. 
+It's a prototype for all the other ideas. I'm using it to validate my build and test scripts.
 
 ### I have another question. How can I reach you?
 

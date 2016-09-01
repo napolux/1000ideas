@@ -4,6 +4,12 @@
 
 $ideas = getIdeas();
 
+// Changing readme file...
+$readmeContent = file_get_contents(__DIR__ . "/../" . "README.md");
+$readmeFile = fopen(__DIR__ . "/../" . "README.md", "w+");
+
+$ideaLists = [];
+
 foreach($ideas as $idea) {
 
     // Read idea.json and validate its structure
@@ -33,7 +39,15 @@ foreach($ideas as $idea) {
     fwrite($fp, $ideaJSON["notice"] . "\n");
 
     fclose($fp);
+
+    $path = explode("/", $idea);
+
+    $ideaLists[] = "[" . $ideaJSON["title"] . "](ideas/" . $path[count($path) - 1] . "/README.md" .")";
 }
+
+$readmeContent = replace_content_inside_delimiters("<!--- IDEALIST_START -->\n","<!--- IDEALIST_END -->\n", "\n* " . implode("\n* ", $ideaLists) . "\n\n" , $readmeContent);
+fwrite($readmeFile, $readmeContent);
+fclose($readmeFile);
 
 function getIdeas() {
     $folder = __DIR__ . "/../ideas/";
@@ -53,4 +67,8 @@ function getIdeas() {
     }
 
     return $ideas;
+}
+
+function replace_content_inside_delimiters($start, $end, $new, $source) {
+    return preg_replace('#('.preg_quote($start).')(.*?)('.preg_quote($end).')#si', '$1'.$new.'$3', $source);
 }
