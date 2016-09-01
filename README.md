@@ -26,6 +26,8 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [IKEA personal shopper](ideas/idea_8/README.md)
 * [Play videogames meetup platform](ideas/idea_9/README.md)
 
+We currently list **11** ideas, since I'm not taking into consideration `idea_0`.
+
 <!--- IDEALIST_END -->
 
 ## FAQ

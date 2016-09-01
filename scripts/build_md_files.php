@@ -45,7 +45,7 @@ foreach($ideas as $idea) {
     $ideaLists[] = "[" . $ideaJSON["title"] . "](ideas/" . $path[count($path) - 1] . "/README.md" .")";
 }
 
-$readmeContent = replace_content_inside_delimiters("<!--- IDEALIST_START -->\n","<!--- IDEALIST_END -->\n", "\n* " . implode("\n* ", $ideaLists) . "\n\n" , $readmeContent);
+$readmeContent = replace_content_inside_delimiters("<!--- IDEALIST_START -->\n","<!--- IDEALIST_END -->\n", "\n* " . implode("\n* ", $ideaLists) . "\n\n" . "We currently list **" . (count($ideaLists) - 1) . "** ideas, since I'm not taking into consideration `idea_0`.\n\n" , $readmeContent);
 fwrite($readmeFile, $readmeContent);
 fclose($readmeFile);
 
