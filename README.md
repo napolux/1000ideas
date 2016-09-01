@@ -7,7 +7,13 @@ and as a programmer I've decided to give to my idea machine a little structure a
 
 This repo serves as container for my ideas.
 
-My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**. 
+My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
+
+### A list of all ideas:
+
+<!--- IDEALIST_START -->
+
+<!--- IDEALIST_END -->
 
 ## FAQ
 
