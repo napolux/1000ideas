@@ -17,6 +17,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [We make your bed service](ideas/idea_1/README.md)
 * [Use a color to make phishing hard](ideas/idea_10/README.md)
 * [The barber review](ideas/idea_11/README.md)
+* [Fat programmer, the videogame](ideas/idea_12/README.md)
 * [Tourist guide on demand for travel tips](ideas/idea_2/README.md)
 * [A Wikipedia for WW2 testimonials](ideas/idea_3/README.md)
 * [Your vegetables garden app](ideas/idea_4/README.md)
@@ -26,7 +27,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [IKEA personal shopper](ideas/idea_8/README.md)
 * [Play videogames meetup platform](ideas/idea_9/README.md)
 
-We currently list **11** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **12** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 

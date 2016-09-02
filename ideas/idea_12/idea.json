@@ -1,0 +1,20 @@
+{
+  "title": "Fat programmer, the videogame",
+  "description": "A videogame about a fat programmer. He will jump (hard, because he's fat), trying to avoid programming books and other stuff falling from the screen. Bonuses will include nerd tshirts and other nerd stuff.",
+  "pros": [
+    "I always wanted to make a videogame, plus I'm a programmer. A fat programmer.",
+    "Many platforms can be covered with the same code (Unity?)",
+    "If successful can bring a lot of money in a short time",
+    "People throws money into IAP and other videogames-related stuff",
+    "Documentation and tools are almost free."
+  ],
+  "cons": [
+    "Videogames: an overcrowded environment to live in, even if money is spent in games more than ever. Could be a waste of time, very few succeed",
+    "Hard to monetize with free2play models ruling the market",
+    "Can hardly be made alone. A graphic and a sound designer should be involved for a quality product",
+    "Piracy and clones from other devs are a big pain in the a*s, in my opinion",
+    "Hard to make an MVP. Product should be at least in beta to be tested with users",
+    "Probably needs high budget to be spent in marketing"
+  ],
+  "notice": "Check https://github.com/napolux/1000ideas for license and FAQ"
+}
