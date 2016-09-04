@@ -1,0 +1,19 @@
+{
+  "title": "Photos of secret places",
+  "description": "A website that creates a catalogue of picture of insides of secret places nobody has knowledge of. Example: Area 51, hidden offices of specific research fields, inside of pyramids not accessible by tourists, old WW2 bunkers, etc... Where possible the content should be verified",
+  "pros": [
+    "Nice niche to explore, interesting for many people",
+    "The website can be as simple as a blog, even on free platforms",
+    "Can be the next \"PostSecrets\" if steadily updated",
+    "Content can become easily viral",
+    "Content can be endless, if well organized"
+  ],
+  "cons": [
+    "Safety concerns, hello FBI/CIA/NSA! :-), but mostly legal involvements. Expect a lot of \"cease and desist\" letters",
+    "Who can provide a constant flow of fresh content? Sources should stay anonymous",
+    "Hard to monetize, probably sponsored content?",
+    "https://www.reddit.com/r/HiddenDoor/ can be a competitor",
+    "How to verify fake and hoaks??? Pretty impossible."
+  ],
+  "notice": "Check https://github.com/napolux/1000ideas for license and FAQ"
+}
