@@ -20,6 +20,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [Fat programmer, the videogame](ideas/idea_12/README.md)
 * [Visual dictionary based on Google Images API](ideas/idea_13/README.md)
 * [Photos of secret places](ideas/idea_14/README.md)
+* [A predefined messages keyboard for mobile](ideas/idea_15/README.md)
 * [Tourist guide on demand for travel tips](ideas/idea_2/README.md)
 * [A Wikipedia for WW2 testimonials](ideas/idea_3/README.md)
 * [Your vegetables garden app](ideas/idea_4/README.md)
@@ -29,7 +30,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [IKEA personal shopper](ideas/idea_8/README.md)
 * [Play videogames meetup platform](ideas/idea_9/README.md)
 
-We currently list **14** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **15** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 
