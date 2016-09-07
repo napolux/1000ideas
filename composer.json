@@ -10,11 +10,6 @@
             "homepage": "https://napolux.com/"
         }
     ],
-    "require-dev": {
-      "phake/phake": "2.*",
-      "guzzlehttp/guzzle": "~6.0",
-      "symfony/css-selector": "dev-master"
-    },
     "require": {
         "php": ">=5.5.0"
     },
