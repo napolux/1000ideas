@@ -1,0 +1,25 @@
+# Take me home: "bodyguard" as a service
+
+A bodyguard service that can be arranged like UBER. If for any specific reason I need a bodyguard or just somebody to take me home (or another place) safely, the service can provide trained people that will help me stay safe, even for a short amount of time. Example: I left my boyfriend and for a week I need somebody to bring me home at night in case I meet him.
+
+### PROs
+
+* Can offer a great range of services, that can be monetize well (drive me home, wait for me, etc...)
+* Paid service can help an equal charity service for people in struggle. Serendipity++ This really could help a lot of people!
+* Disruptive in a closed market: it should be easy to book, just like UBER. Today if I need this kind of service I don't even know where to look
+* Pay-to-go or monthly subscriptions can be offered, enlarging the
+* The market has already proved that services like this can work.
+
+### CONs
+
+* Can be hard to match local regulation on bodyguard services, depending on the country or even state
+* What if something bad happens? Probably high insurance costs, bad press, legal struggles, etc...
+* Hard to scale: needs to train or hire specifically trained people, background checks, etc...
+* No MVP is possible, high setup costs for a good start. Start small, go big...
+* Clones will popup soon, and a price war on people's safety is not good
+* Can work everywhere, but could work more in rich areas
+* What if somebody needs a bodyguard and I can't provide one for whatever reason?
+
+### Notice
+
+Check https://github.com/napolux/1000ideas for license and FAQ

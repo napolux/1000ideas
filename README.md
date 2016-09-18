@@ -20,6 +20,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [Fat programmer, the videogame](ideas/idea_12/README.md)
 * [Visual dictionary based on Google Images API](ideas/idea_13/README.md)
 * [Photos of secret places](ideas/idea_14/README.md)
+* [Take me home: "bodyguard" as a service](ideas/idea_15/README.md)
 * [Tourist guide on demand for travel tips](ideas/idea_2/README.md)
 * [A Wikipedia for WW2 testimonials](ideas/idea_3/README.md)
 * [Your vegetables garden app](ideas/idea_4/README.md)
@@ -29,7 +30,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [IKEA personal shopper](ideas/idea_8/README.md)
 * [Play videogames meetup platform](ideas/idea_9/README.md)
 
-We currently list **14** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **15** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 
@@ -47,7 +48,7 @@ YES. The MIT license is pretty clear.
 
 ### How long will it take to reach 1000 ideas?
 
-If I stick to James' idea machine article I should end my journey in 100 days. I will not limit myself to a simple writedown, so it could take longer.
+If I stick to James' idea machine article I should end my journey in 100 days. I will not limit myself to a simple writedown and I would not write 10 ideas per day (probably just one), so it could take longer.
 
 ### Tell me more about the "little structure" and the "quality" of your ideas
 
@@ -55,7 +56,7 @@ Ideas will be rendered as a `.json` and a `README.md` file. The markdown file wi
 
 * Have a "title" of less than 15 words
 * Have a "description" of at least than 30 words
-* Have a list of five (5) pros and (5) cons
+* Have a list of five (5) or more pros and (5) or more cons
 * A notice about this project
 
 (structure may change at my will, it's not set in stone)
