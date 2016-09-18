@@ -49,7 +49,7 @@ YES. The MIT license is pretty clear.
 
 ### How long will it take to reach 1000 ideas?
 
-If I stick to James' idea machine article I should end my journey in 100 days. I will not limit myself to a simple writedown, so it could take longer.
+If I stick to James' idea machine article I should end my journey in 100 days. I will not limit myself to a simple writedown, so it could take longer, and I'm currenly writing an avg. of one idea per day. So please do the math ;)
 
 ### Tell me more about the "little structure" and the "quality" of your ideas
 
@@ -57,7 +57,7 @@ Ideas will be rendered as a `.json` and a `README.md` file. The markdown file wi
 
 * Have a "title" of less than 15 words
 * Have a "description" of at least than 30 words
-* Have a list of five (5) pros and (5) cons 
+* Have a list of five (5) or more pros and (5) or more cons
 * A notice about this project
 
 (structure may change at my will, it's not set in stone)
