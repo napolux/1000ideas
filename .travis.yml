@@ -11,10 +11,6 @@ php:
   # aliased to a recent 7.x version
   - 7.0
 
-# optionally specify a list of environments, for example to test different RDBMS
-env:
-  - DB=mysql
-
 # execute any number of scripts before the test run, custom env's are available as variables
 before_script:
   - composer self-update
