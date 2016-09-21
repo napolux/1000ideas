@@ -22,6 +22,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [Photos of secret places](ideas/idea_14/README.md)
 * [A predefined messages keyboard for mobile](ideas/idea_15/README.md)
 * [Take me home: "bodyguard" as a service](ideas/idea_16/README.md)
+* [Casting news](ideas/idea_17/README.md)
 * [Tourist guide on demand for travel tips](ideas/idea_2/README.md)
 * [A Wikipedia for WW2 testimonials](ideas/idea_3/README.md)
 * [Your vegetables garden app](ideas/idea_4/README.md)
@@ -31,7 +32,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [IKEA personal shopper](ideas/idea_8/README.md)
 * [Play videogames meetup platform](ideas/idea_9/README.md)
 
-We currently list **16** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **17** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 
