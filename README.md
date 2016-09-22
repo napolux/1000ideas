@@ -13,7 +13,6 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 
 <!--- IDEALIST_START -->
 
-* [The idea number 0, the prototype for all other ideas](ideas/idea_0/README.md)
 * [We make your bed service](ideas/idea_1/README.md)
 * [Use a color to make phishing hard](ideas/idea_10/README.md)
 * [The barber review](ideas/idea_11/README.md)
@@ -31,6 +30,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [CV Bot](ideas/idea_7/README.md)
 * [IKEA personal shopper](ideas/idea_8/README.md)
 * [Play videogames meetup platform](ideas/idea_9/README.md)
+* [The idea number 0, the prototype for all other ideas](ideas/idea_prototype/README.md)
 
 We currently list **17** ideas, since I'm not taking into consideration `idea_0`.
 
