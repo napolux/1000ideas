@@ -13,6 +13,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 
 <!--- IDEALIST_START -->
 
+* [1 hour emergency condoms/sextoys delivery](ideas/1_hour_condom_delivery/README.md)
 * [The barber review](ideas/barbershops_reviews/README.md)
 * [Take me home: "bodyguard" as a service](ideas/bodyguard_as_a_service/README.md)
 * [Casting news](ideas/casting_news/README.md)
@@ -33,7 +34,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [We make your bed service](ideas/we_make_your_bed_service/README.md)
 * [A Wikipedia for WW2 testimonials](ideas/ww2_wikipedia_for_testimonials/README.md)
 
-We currently list **18** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **19** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 
