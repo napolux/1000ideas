@@ -20,6 +20,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [Fat programmer, the videogame](ideas/fat_programmer_videogame/README.md)
 * [Follow me luggage](ideas/follow_me_luggage/README.md)
 * [IKEA personal shopper](ideas/ikea_personal_shopper/README.md)
+* [Luxury news for rich people](ideas/luxury_news_for_rich_people/README.md)
 * [Use a color to make phishing hard](ideas/make_phishing_hard_with_colors/README.md)
 * [Photos of secret places](ideas/pics_of_secret_places/README.md)
 * [A predefined messages keyboard for mobile](ideas/predefined_messages_keyboard/README.md)
@@ -32,7 +33,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [We make your bed service](ideas/we_make_your_bed_service/README.md)
 * [A Wikipedia for WW2 testimonials](ideas/ww2_wikipedia_for_testimonials/README.md)
 
-We currently list **17** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **18** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 
