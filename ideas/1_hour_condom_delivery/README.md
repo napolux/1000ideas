@@ -1,6 +1,6 @@
 # 1 hour emergency condoms/sextoys delivery
 
-The title says it all. Push "a button" and a pack of condom (or other funny things) will be delivered wherever you are within one hour, anonymous package will protect your privacy. Because safe sex is important, but you never know when and where it can happen.
+The title says it all. Push "a button" and a pack of condom (or other funny things) will be delivered wherever you are within one hour, an anonymous package will protect your privacy. Because safe sex is important, but you never know when and where it can happen.
 
 ### PROs
 
