@@ -1,6 +1,6 @@
 # We make your bed service
 
-For a monthly subscription (i.e. 19$ for 1 bed, 29$ for two beds, etc...) we make your bed at home with fresh sheets during the morning Mon-Fri, so you don't have to. The service basic package is limited only to beds, without touching anything else.
+For a monthly subscription (i.e. 19$ for 1 bed, 29$ for two beds, etc...) we make your bed at home with fresh sheets during the morning Mon-Fri, so you don't have to. The service basic package is limited only to beds, without touching anything else for the min. package.
 
 ### PROs
 

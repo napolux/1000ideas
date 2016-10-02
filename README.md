@@ -74,6 +74,7 @@ To run tests you need:
 * PHP 5.5.x
 * [Composer](https://getcomposer.org/download/) & [PHPUnit](http://phpunit.de)
 * [Install PHPUnit](http://phpunit.de/manual/current/en/installation.html) if you didn't before.
+* Run `phpunit --bootstrap scripts/build_md_files.php tests/` to build files and run tests.
 
 ### Are your ideas 100% originals?
 
