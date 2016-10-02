@@ -15,10 +15,9 @@ Brothels review, because probably there's a way to make people aware of other's 
 * Cannot really find a competitor. Could be a bad news
 * Legal involvement? What about non legal brothels or single state laws?
 * How to get a bunch of content for the start? You can't start with an empty website, and I can't really go to brothels
-* In Italy prostitution is legal, but brothels are not
+* In Italy prostitution is legal, but brothels are not. By the way in Switzerland there's a possible market for it
 * You need moderation and verification
 * A relative small niche
-* Too much competition in review-based websites
 * Cannot use regular advertising networks
 
 ### Notice
