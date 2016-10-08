@@ -16,7 +16,7 @@ Let's meet other people to play videogames together. And f*ck streaming! A commu
 * Legal involvements for underage players. Bad things can happen
 * Hard to scale
 * Streaming is really cool these days, can we challenge it?
-* Of course it's location based, so can't really work in small communities or isolated environments.
+* Of course it's location based, so can't really work in small communities or isolated environments
 
 ### Notice
 

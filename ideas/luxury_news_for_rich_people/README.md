@@ -14,7 +14,7 @@ Reach people have no time. They want to be updated in a fast way. They want to s
 ### CONs
 
 * Needs a full team for fresh news
-* Hard to differentiate, if news are always the same.
+* Hard to differentiate, if news are always the same
 * How to get exclusive news, for example in fashion
 * Can't really cover international events. I need to be rich to cover news for the rich people
 * Probably also need a way to avoid plagiarism of original content

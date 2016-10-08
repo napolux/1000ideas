@@ -8,7 +8,7 @@ Videocalls to answer about travel questions, made by locals. If I want to go and
 * You can connect with locals before your trip
 * Makes people earn money thanks to their knowledge
 * Can be used for more than travel tips: language lessons, etc...
-* Can work live, but also "offline": I ask for a question and I receive a video answer later.
+* Can work live, but also "offline": I ask for a question and I receive a video answer later
 
 ### CONs
 

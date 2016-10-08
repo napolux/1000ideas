@@ -16,7 +16,7 @@ A website that creates a catalogue of picture of insides of secret places nobody
 * Who can provide a constant flow of fresh content? Sources should stay anonymous
 * Hard to monetize, probably sponsored content?
 * https://www.reddit.com/r/HiddenDoor/ can be a competitor
-* How to verify fake and hoaks??? Pretty impossible.
+* How to verify fake and hoaks??? Pretty impossible
 
 ### Notice
 

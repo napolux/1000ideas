@@ -4,7 +4,7 @@ A videogame about a fat programmer. He will jump (hard, because he's fat), tryin
 
 ### PROs
 
-* I always wanted to make a videogame, plus I'm a programmer. A fat programmer.
+* I always wanted to make a videogame, plus I'm a programmer. A fat programmer
 * Many platforms can be covered with the same code (Unity?)
 * If successful can bring a lot of money in a short time
 * People throws money into IAP and other videogames-related stuff

@@ -15,7 +15,7 @@ An e-paper programmable card to contain all the "barcode based" cards that are f
 * Fun and easy to build as an hobby project, but hard to scale, needs a factory or a remote company to assemble stuff, it's cheap, but not that cheap
 * Will shops accept it?
 * I don't know how to build an electronic board, I worked only with Arduino/Raspberry Pi
-* Cheap clones! Needs patents.
+* Cheap clones! Needs patents
 * Can be outsmarted by apps
 
 ### Notice

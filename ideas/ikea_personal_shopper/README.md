@@ -4,7 +4,7 @@ A personal shopper that will help you design your home and will buy with you the
 
 ### PROs
 
-* Many people likes IKEA but have zero knowledge of taking measures or design their home. IKEA tools are far from perfect.
+* Many people likes IKEA but have zero knowledge of taking measures or design their home. IKEA tools are far from perfect
 * Can be a second job for many people (including myself)
 * IKEA is everywhere
 * Personal shoppers for clothes are a thing. Why not furniture?
@@ -12,11 +12,11 @@ A personal shopper that will help you design your home and will buy with you the
 
 ### CONs
 
-* Ikea can easily replicate the service or find a way to fight against it.
+* Ikea can easily replicate the service or find a way to fight against it
 * Must be cheap
 * How to set contract? How about the user not satisfied with final results?
-* Additional services like transportation and assembly are already sold by Ikea itself.
-* Hard to scale.
+* Additional services like transportation and assembly are already sold by Ikea itself
+* Hard to scale
 * Staff needs some basic knowledge of how to take measures and/or home design
 
 ### Notice

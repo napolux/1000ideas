@@ -16,7 +16,7 @@ There is a lot of vegan friendly food, clothes, restaurants, etc... out there, b
 * Can be easy target for Internet trolls
 * Easy to copy
 * Needs a constant flow of new content everyday
-* Hard to scale.
+* Hard to scale
 
 ### Notice
 

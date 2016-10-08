@@ -4,7 +4,7 @@ You don't know what Flughafen means in german? Type it into the visual dictionar
 
 ### PROs
 
-* Easy to use and easy to understand.
+* Easy to use and easy to understand
 * Can be built as an app or as a webservice
 * Can work with illiterate people. Type "Flughafen" into the app, show the images
 * Simple MVP. Just a script calling the API and presenting results can work as a demo
@@ -17,7 +17,7 @@ You don't know what Flughafen means in german? Type it into the visual dictionar
 * Probably too much dictionary apps
 * How to monetize?
 * Results should be checked somehow
-* Should work offline, especially in 3rd world countries or problematic environments.
+* Should work offline, especially in 3rd world countries or problematic environments
 
 ### Notice
 
