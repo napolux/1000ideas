@@ -19,6 +19,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [The brothels review](ideas/brothel_reviews/README.md)
 * [Casting news](ideas/casting_news/README.md)
 * [CV Bot](ideas/cv_bot/README.md)
+* [An e-paper programmable card](ideas/epaper_programmable_card/README.md)
 * [Fat programmer, the videogame](ideas/fat_programmer_videogame/README.md)
 * [Follow me luggage](ideas/follow_me_luggage/README.md)
 * [IKEA personal shopper](ideas/ikea_personal_shopper/README.md)
@@ -38,7 +39,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [We make your bed service](ideas/we_make_your_bed_service/README.md)
 * [A Wikipedia for WW2 testimonials](ideas/ww2_wikipedia_for_testimonials/README.md)
 
-We currently list **23** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **24** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 

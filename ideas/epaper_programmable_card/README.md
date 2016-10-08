@@ -1,0 +1,23 @@
+# An e-paper programmable card
+
+An e-paper programmable card to contain all the "barcode based" cards that are filling up our pockets. [The card is proved to be buildable](http://www.paulschow.com/2016/08/epaper-business-card.html) for example, but the "good part" of this idea is making people get rid of their plastic gift/fidelity cards.
+
+### PROs
+
+* Make space in your pockets
+* Fun and easy to build as an hobby project
+* Cheap, battery will last for years
+* Compatible with existing supermarkets, shops barcode scanners
+* Can be extended with smart cpu for improvements and passive screen [like this prototype](https://www.youtube.com/watch?v=s-8GpkncVFQ)
+
+### CONs
+
+* Fun and easy to build as an hobby project, but hard to scale, needs a factory or a remote company to assemble stuff
+* Will shops accept it?
+* I don't know how to build an electronic board, I worked only with Arduino/Raspberry Pi
+* Cheap clones! Needs patents
+* Can be outsmarted by apps
+
+### Notice
+
+Check https://github.com/napolux/1000ideas for license and FAQ
