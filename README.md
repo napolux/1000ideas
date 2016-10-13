@@ -31,6 +31,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [A predefined messages keyboard for mobile](ideas/predefined_messages_keyboard/README.md)
 * [The idea number 0, the prototype for all other ideas](ideas/prototype_for_ideas/README.md)
 * [Sandwiches recipe app](ideas/sandwich_recipes_app/README.md)
+* [Technology personal shopper](ideas/technology_personal_shopper/README.md)
 * [Tourist guide on demand for travel tips](ideas/tourist_guide_on_demand/README.md)
 * [Vegan food/restaurants/lifestyle review](ideas/vegan_food_reviews/README.md)
 * [Your vegetables garden app](ideas/vegetables_garden_app/README.md)
@@ -39,7 +40,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [We make your bed service](ideas/we_make_your_bed_service/README.md)
 * [A Wikipedia for WW2 testimonials](ideas/ww2_wikipedia_for_testimonials/README.md)
 
-We currently list **24** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **25** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 

@@ -1,22 +1,25 @@
-# 1 hour emergency condoms/sextoys delivery
+# Technology personal shopper
 
-The title says it all. Push "a button" and a pack of condom (or other funny things) will be delivered wherever you are within one hour, an anonymous package will protect your privacy. Because safe sex is important, but you never know when and where it can happen.
+A personal shopper for technology gadgets. If you're passionate about tech but you don't want to overspend or be scammed or you simply want personalized suggestions, you can hire a technology personal shopper that can help you in choosing the perfect gizmo for your lifestyle
 
 ### PROs
 
-* Easy MVP with an app or mobile first website
-* Can be expanded by offering 1 hour delivery on other products
-* People are willing to pay for delivery
-* Safety first! Then fun!
-* No companies specialized in this, AFAIK
+* Can be applied to a lot of categories (from smartphones to high end hi-fi equipment)
+* Can be priced well, especially for rich clients
+* Can start as a free remote MVP, with amazon referrals link to be used as reward
+* I love gadgets! I can do that myself
+* Additional services like assembly and configuration can be offered
+* Can be sponsored by tech brands
+* Can offer subscription model
+* In a perfect world you can become big enough to have your own high-end shop
 
 ### CONs
 
-* Can't really scale, competition is fierce, needs logistics, yes, I'm talking to you Amazon Prime!
-* People are willing to pay for delivery, but price of products is so low that probably it's not feasible
-* Will it really work for condoms or sexy stuff only?
-* Can't really be branded or advertised while delivering like Deliveroo or Uber Eats. Privacy concerns
-* Some items needs proper transportation (i.e. condoms)
+* Can't really scale: you need to train your staff properly and have multiple people hired, training should be an ongoing activity to keep up with current trends
+* What if people is not satisfied with the results or purchase?
+* Works only for rich people, hard to price: 20$ for a 600$ smartphone? You can't ask for 100$
+* Possible clients are more and more into tech and well informed
+* Can face price war by big chains or even random people
 
 ### Notice
 
