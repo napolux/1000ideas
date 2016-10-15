@@ -1,0 +1,23 @@
+# Holidays with no technology
+
+Holidays with no smartphone, Internet connection, or TV. Lot of newspapers, books and activities to rediscover a life without (or limited) technology. Can be a camping holiday or a beach village with a common denominator. Can have different levels of isolations (telephones YES/NO, tv YES/NO, etc...) in order to make people gradually choice their plan.
+
+### PROs
+
+* Can have for sure a market for the product
+* Can be a nice experience for people
+* Tour operators partnership
+* Can work everywhere in the world
+* Tourism is an high margin market
+
+### CONs
+
+* Never worked with travel companies, zero knowledge of the market
+* Can't really scale
+* No MVP, needs massive initial budget
+* No tech involved, but I'm a tech guy! :-P
+* Easy to be copied by bigger companies. Can kill my company in seconds
+
+### Notice
+
+Check https://github.com/napolux/1000ideas for license and FAQ
