@@ -1,4 +1,4 @@
-# An Uber for tech support
+# An Uber for simple tech support
 
 An Uber for tech support. Computer isn't working? Can't configure your new iPhone? Call "Uber for tech support" and in a short time you can have a technician ringing your bell.
 

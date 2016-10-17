@@ -36,7 +36,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [Shutdown app for smartphones](ideas/shutdown_app/README.md)
 * [Technology personal shopper](ideas/technology_personal_shopper/README.md)
 * [Tourist guide on demand for travel tips](ideas/tourist_guide_on_demand/README.md)
-* [An Uber for tech support](ideas/uber_for_tech_support/README.md)
+* [An Uber for simple tech support](ideas/uber_for_tech_support/README.md)
 * [Vegan food/restaurants/lifestyle review](ideas/vegan_food_reviews/README.md)
 * [Your vegetables garden app](ideas/vegetables_garden_app/README.md)
 * [Play videogames meetup platform](ideas/videogame_meetup_platform/README.md)
