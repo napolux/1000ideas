@@ -34,7 +34,7 @@ class Ideas extends \PHPUnit_Framework_TestCase
         foreach ($this->ideas as $idea) {
             // Check if there are the two files inside the folder
             $this->assertTrue(file_exists($idea . "/idea.json"), "idea.json doesn't exist");
-            $this->assertTrue(file_exists($idea . "/README.md"), "idea.md doesn't exist");
+            $this->assertTrue(file_exists($idea . "/README.md"), "README.md doesn't exist");
 
             // Read idea.json and validate its structure
             $data = file_get_contents($idea . "/idea.json");
