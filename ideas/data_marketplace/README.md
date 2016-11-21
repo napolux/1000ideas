@@ -1,4 +1,4 @@
-# A data marketplace
+# A raw data marketplace
 
 A place where you can sell and buy any form of raw data. Websites analytics data, geodata, measurements, medical data, etc... In many formats (csv, json, etc...) would be available for students, researches, and institutions to be "crunched" and derive analysis.
 
