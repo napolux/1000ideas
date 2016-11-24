@@ -36,6 +36,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [Pay 9.99$ / month to reiceive a random vynil LP](ideas/random_lp_subscription/README.md)
 * [Sandwiches recipe app](ideas/sandwich_recipes_app/README.md)
 * [Shutdown app for smartphones](ideas/shutdown_app/README.md)
+* [Sideprojects cemeterey, marketplace for dead sideprojects](ideas/sideprojects_cemetery/README.md)
 * [Technology personal shopper](ideas/technology_personal_shopper/README.md)
 * [Tourist guide on demand for travel tips](ideas/tourist_guide_on_demand/README.md)
 * [An Uber for simple tech support](ideas/uber_for_tech_support/README.md)
@@ -46,7 +47,7 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [We make your bed service](ideas/we_make_your_bed_service/README.md)
 * [A Wikipedia for WW2 testimonials](ideas/ww2_wikipedia_for_testimonials/README.md)
 
-We currently list **31** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **32** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 

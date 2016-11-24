@@ -1,0 +1,23 @@
+# Sideprojects cemeterey, marketplace for dead sideprojects
+
+Sell your unfinished sideprojects to people willing to finish and commit to them. You won't ever finish them anyway. Profit from your partially completed ideas and spend $$$ on booze. The marketplace can be bootstrapped easily and work 
+
+### PROs
+
+* Monetize your wasted time! Useful, especially for me. :-)
+* No alternatives. Is this a new thing?
+* Can be monetized very well
+* Nice marketing gimmick. Can be sold well to press
+* Easy to develop an MVP
+
+### CONs
+
+* Basically a digital marketplace with a marketing twist. Nothing new
+* No alternatives. Bad signal?
+* How to define correct prices for projects?
+* Legal problems in case of licenses or NDAs (or whatever) violations. I can't really tell if a project is really owned by people selling it.
+* How to avoid scams?
+
+### Notice
+
+Check https://github.com/napolux/1000ideas for license and FAQ
