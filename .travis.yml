@@ -8,6 +8,8 @@ php:
   - 5.6
   # aliased to a recent 7.x version
   - 7.0
+  - 7.1
+  - 7.2
 
 # execute any number of scripts before the test run, custom env's are available as variables
 before_script:

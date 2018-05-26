@@ -6,7 +6,7 @@ require __DIR__ . '/../vendor/autoload.php';
 use RecursiveDirectoryIterator;
 use RecursiveIteratorIterator;
 
-class Ideas extends \PHPUnit_Framework_TestCase
+class IdeasTest extends \PHPUnit\Framework\TestCase
 {
     protected $client;
     protected $ideas;
