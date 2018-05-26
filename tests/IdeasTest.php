@@ -44,7 +44,7 @@ class IdeasTest extends \PHPUnit\Framework\TestCase
             $this->assertNotNull($ideaJSON, "The idea.json file is not a valid JSON");
 
             // Check word counts for title & description
-            $this->assertTrue(str_word_count($ideaJSON["title"]) <= 15, "Title should be at not more than 15 words long");
+            $this->assertTrue(str_word_count($ideaJSON["title"]) <= 15, "Title should be not more than 15 words long");
             $this->assertNotEmpty(str_word_count($ideaJSON["title"]), "Title should not be empty");
             $this->assertTrue(str_word_count($ideaJSON["description"]) >= 30, "Description should be at least 30 words long");
 

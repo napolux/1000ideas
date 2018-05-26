@@ -46,8 +46,9 @@ My ultimate goal is to reach **one thousand (1000, 1k, whatever) ideas**.
 * [CV Bot](ideas/cv_bot/README.md)
 * [Sideprojects cemeterey, marketplace for dead sideprojects](ideas/sideprojects_cemetery/README.md)
 * [Survive the office: a manual](ideas/office_survival_manual/README.md)
+* [An online wishlist with real time alerting system](ideas/im_messaging_alert_for_shopping_offers/README.md)
 
-We currently list **32** ideas, since I'm not taking into consideration `idea_0`.
+We currently list **33** ideas, since I'm not taking into consideration `idea_0`.
 
 <!--- IDEALIST_END -->
 
