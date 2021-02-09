@@ -54,6 +54,12 @@ We currently list **33** ideas, since I'm not taking into consideration `idea_0`
 
 ## FAQ
 
+### Validate an idea
+- [Research on Google Trends](https://trends.google.com/trends/)
+- [Target Specific Reddit Groups, ask their opinion](https://www.indiehackers.com/post/my-team-validates-startup-ideas-using-reddit-that-has-1-5b-visits-a-month-its-accurate-and-fast-here-is-how-to-get-started-26cc717989)
+- Maybe use this [AreYouInterested](https://areyouinterested.co/), [SurveyWave](http://surveywave.xyz/) tools
+
+
 ### Who are you?
 I'm an italian programmer. You can find some more about me @ [https://napolux.com](https://napolux.com)
 
